@@ -15,6 +15,6 @@
   },
   "devDependencies": {
     "@types/yauzl": "^2.10.0",
-    "@types/yazl": "^2.4.2"
+    "@types/yazl": "^2.4.5"
   }
 }
